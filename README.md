@@ -5,6 +5,14 @@
 
 Только стандартная библиотека Python 3.8+.
 
+## Пайплайн
+
+```text
+sales.csv ──▶ скользящие окна ──▶ 5 методов ────────────▶ MAE / MAPE ──▶ work/metrics.json
+date,value     min-train = 56      naive, mean, ma7,        по каждому    победитель
+                                   seasonal7, trend        методу        + вывод в --json
+```
+
 ## Методы
 
 | Метод | Что прогнозирует |
