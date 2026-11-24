@@ -40,3 +40,7 @@ and `--csv` output.
 ## Scope
 
 Baselines only — no boosting, no intervals. The series is synthetic.
+
+---
+
+More projects: [github.com/basovdanil](https://github.com/basovdanil) · write-ups: [portfolio](https://basovdanil.github.io/portfolio/)

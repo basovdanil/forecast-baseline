@@ -92,3 +92,7 @@ python -m unittest discover -s tests
 определяются акциями, базовая линия их не поймает. `seasonal7` жёстко зашит на
 неделю, для месячной сезонности нужен свой лаг. Ряд без пропусков и дублей дат:
 проверка календаря не делается, шаг считается равномерным.
+
+---
+
+Другие проекты: [github.com/basovdanil](https://github.com/basovdanil) · разборы с числами: [portfolio](https://basovdanil.github.io/portfolio/)
