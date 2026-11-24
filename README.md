@@ -4,6 +4,11 @@
 
 **[English](README.en.md)** · [Русский](README.md)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basovdanil/basovdanil/main/assets/tools.png"
+       alt="Восемь инструментов с тестами и кодами возврата" width="100%">
+</p>
+
 Бэктест базовых прогнозов на одном временном ряду. Показывает, какой метод
 действительно лучше на ваших данных, до того как тянуть ARIMA и бустинг.
 

@@ -1,5 +1,10 @@
 # forecast-baseline
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basovdanil/basovdanil/main/assets/tools.png"
+       alt="Eight tools with tests and exit codes" width="100%">
+</p>
+
 [![tests](https://github.com/basovdanil/forecast-baseline/actions/workflows/tests.yml/badge.svg)](https://github.com/basovdanil/forecast-baseline/actions/workflows/tests.yml)
 
 Backtest of five baseline forecasts on a time series with rolling windows: naive, mean, moving
