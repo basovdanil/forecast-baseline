@@ -1,5 +1,7 @@
 # forecast-baseline
 
+[![tests](https://github.com/basovdanil/forecast-baseline/actions/workflows/tests.yml/badge.svg)](https://github.com/basovdanil/forecast-baseline/actions/workflows/tests.yml)
+
 Бэктест базовых прогнозов на одном временном ряду. Показывает, какой метод
 действительно лучше на ваших данных, до того как тянуть ARIMA и бустинг.
 
